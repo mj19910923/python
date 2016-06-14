@@ -5,7 +5,7 @@
 #
 
 # Pull base image.
-FROM 	registry.aliyuncs.com/hds/ubuntu.base:14.04
+FROM registry.aliyuncs.com/hds/ubuntu.base:14.04
 
 # Install Python.
 RUN \
